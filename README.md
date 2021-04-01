@@ -1,5 +1,5 @@
 # TurboLotto
-A lottery game which you can start playing with your friends! Single Player doesn't support on this game.
+A lottery game which you can start playing with your friends! Single Player doesn't support on this game (boring).
 
   - Players has a power to adjust the maximum chosen set of numbers starting to one (through code).
   - Players may also adjust the range of possible numbers as long as the winning numbers still fits in your screen (through code).
