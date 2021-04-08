@@ -7,4 +7,4 @@ A lottery game which you can start playing with your friends! Single Player does
   
   "Together with your friends, grab now your pens and papers then start predicting the winning combinations."
   
-  # # [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J123MH0)
+  # [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J123MH0)
